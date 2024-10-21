@@ -41,7 +41,6 @@ while x != 20:
 
 print("\n*********************************\n")  # Print a decorative separator
 
-print("Welcome Branch")
 
 print("Weather Branch\n")  # Print the section title
 
